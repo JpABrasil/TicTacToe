@@ -12,6 +12,7 @@ public class Main {
         myWindow.setSize(800,800);
 
         //Creating Buttons
+
         JButton btn1 = new JButton();
         JButton btn2 = new JButton();
         JButton btn3 = new JButton();
